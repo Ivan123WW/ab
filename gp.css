@@ -1,0 +1,78 @@
+.l{
+    position: absolute;
+    width: 234px;
+    height: 42px;
+    left: 718px;
+    top: 50px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+
+}
+
+.form{
+    position: absolute;
+    width: 85px;
+    height: 42px;
+    left: 583px;
+    top: 140px;
+ 
+}
+.p{
+    position: absolute;
+    width: 386px;
+    height: 44px;
+    left: 653px;
+    top: 548px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+}
+.v{
+    position: absolute;
+    width: 96px;
+    height: 44px;
+    left: 626px;
+    top: 634px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+}
+.o{
+    position: absolute;
+    width: 161px;
+    height: 44px;
+    left: 918px;
+    top: 634px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+}
+.on{
+    display: flex;
+    margin-left: 350px;
+    width: 400px;
+    height: 100px;
+}
+.bhn2{
+    width: 324px;
+    height: 68px;
+    left: 725px;
+    top: 466px;
+    text-decoration: none;
+}
+.bhn3{
+    width: 202px;
+    height: 58px;
+    left: 480px;
+    top: 471px;
+    text-decoration: none;
+}
